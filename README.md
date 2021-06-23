@@ -7,7 +7,7 @@
 </p>
 <!-- Title -->
 <h1 align="center"><b>CS112.L21.N04 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
-<h1 align="center"><b>WEBINAR: TÀI LIỆU CUỐI KÌ </b></h1>
+<h1 align="center"><b>TÀI LIỆU CUỐI KÌ </b></h1>
 
 ## BẢNG MỤC LỤC
 
