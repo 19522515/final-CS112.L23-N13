@@ -61,8 +61,27 @@
 | Nhóm 18      | 0          |
 
 #### 2. KẾT QUẢ LÀM BÀI TẬP HACKERRANK
+| Tên Nhóm | Số lương bài tập |
+| :---: | :---: |
+|N11| 2/2|
+|N4|2/2|
+|N14|2/2|
+|N3|2/2|
+|N5|2/2|
+|N7|2/2|
+|N15|2/2|
+|N17|2/2|
+|N13|1/2|
 
 ## BẢNG MÔ TẢ CÁC BÀI THỰC HÀNH
 
 | Tuần  | Tên bài | Đáp án |
-| :---: | --- | :---: |
+| :---: | :---:   | :---:  |
+|1|Bot - Trạm thu phí|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/BaiTap_week1.ipynb)|
+||Seaweed - Tảo biển|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/BaiTap_week1.ipynb)|
+|2|H - index|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/H_index.ipynb)|
+||MaxStr - Khóa số|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/MAXSTR_KHOASO.ipynb)|
+|3|Renewed - Đổi mới||
+||NewNum - Số nguyên mới||
+|4|Wall - Sửa hàng rào||
+||Fraction - Phân số|[Code python](https://github.com/19522515/CS112.L21-N13/blob/main/Assignment%20B%C3%A0i%20T%E1%BA%ADp/Week7/phanso.ipynb)|
