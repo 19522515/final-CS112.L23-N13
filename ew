@@ -1,0 +1,106 @@
+<!-- Banner -->
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
+
+<!-- Title -->
+<h1 align="center"><b>CS112.L21.N04 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
+<h1 align="center"><b>WEBINAR: THUẬT TOÁN TÌM ĐƯỜNG ĐI NGẮN NHẤT </b></h1>
+
+## BẢNG MỤC LỤC
+* [Slide thuyết trình](#slide-thuyết-trình)
+* [Câu hỏi và bài tập](#câu-hỏi-và-bài-tập)
+* [Bảng vinh danh](#bảng-vinh-danh)
+* [Đáp án và bộ test](#đáp-án-và-bộ-test)
+* [Sửa bài tập](#sửa-bài-tập)
+* [Thống kê buổi học](#thống-kê-buổi-học)
+
+## SLIDE THUYẾT TRÌNH
+
+| STT | Thông tin file | Đường dẫn |
+| :---: | --- | --- |
+| 1 | PowerPoint Slide | [ShortestPath.pptx](Slide/ShortestPath.pptx) |
+| 2 | PDF Slide | [ShortestPath.pdf](Slide/ShortestPath.pdf) |
+| 3 | Video Clip 1 | [TheBornOfGraphicAlgorithm.mp4](Slide/Videos%20About%20Shortest%20Path/TheBornOfGraphAlgorithm.mp4) |
+| 4 | Video clip 2 | [ApplicationOfGoogleMaps.mp4](Slide/Videos%20About%20Shortest%20Path/ApplicationOfGoogleMaps.mp4) |
+| 5 | Explaination Slide | [Explaination.pptx](Slide/Explaination.pptx) |
+
+
+## CÂU HỎI VÀ BÀI TẬP
+| STT | Thông tin| Đường dẫn | Hạn nộp |
+| :---: | --- | --- | :---: |
+| 1 | Kahoot (Tự luyện) | [Kahoot.it](https://kahoot.it/challenge/05407295?challenge-id=66457aa4-3734-4e84-ae1b-32f7b7792d4a_1623425117935) | 18/06/2021 |
+| 2 | Hackerrank | [Hackerrank.com](https://www.hackerrank.com/contests/cs112-l21-n04) | 11/06/2021 |
+
+## BẢNG VINH DANH
+| **STT** | **Thành tích**                         | **Nhóm / Cá nhân**       |
+|---------|----------------------------------------|--------------------------|
+| 1       | TOP 1 - Đóng góp xây dựng buổi học     | Nhóm 9                   |
+| 2       | TOP 1 - HackerRank                     | Nhóm 9                   |
+| 3       | Thành viên tích cực nhất buổi học      | Phạm Thành Luân - Nhóm 9 |
+| 4       | TOP 1 - Kahoot                         | Võ Tuấn Minh - Nhóm 10   |
+| 5       | TOP 2 - Kahoot                         | Lê Quang Minh - Nhóm 10  |
+| 6       | TOP 3 - Kahoot                         | Phạm Thành Luân - Nhóm 9 |
+| 7       | Nhóm đầy đủ thành viên tham gia Kahoot | Nhóm 10, 16              |
+
+## ĐÁP ÁN VÀ BỘ TEST
+### 1. Kahoot
+- File câu hỏi và đáp án: [Question_Answer.pdf](Kahoot/Question_Answer.pdf)
+
+### 2. HackerRank
+| STT | Tên bài | Đáp án | Bộ test | Số lượng test case |
+| :---: | --- | --- | --- | :---: |
+| 1 | Tham quan | [Code python](Homework/Solutions/Touring.py) | [Testcases](Homework/Testcases/Touring) | 14 (+ 1 HackerRank sample) |
+| 2 | Tàu nhanh | [Code python](Homework/Solutions/Spaceship.py) | [Testcases](Homework/Testcases/Spaceship) | 14 (+ 1 HackerRank sample) |
+| 3 | Tham quan (Optional) | [Code python](Homework/Solutions/Touring%20(Tracing%20Version).py) | [Testcases](Homework/Testcases/Touring) + [Checker](Homework/Testcases/Touring%20(Checker%20for%20HackerRank).py) | 14 (+ 1 HackerRank sample) |
+
+## SỬA BÀI TẬP
+- Phần sửa bài tập nhóm sẽ ghi comment trực tiếp trên file code của các nhóm
+- Chi tiết xem tại: [Review Folder](Homework/Review)
+
+## THỐNG KÊ BUỔI HỌC
+
+### 1. ĐÓNG GÓP XÂY DỰNG BUỔI HỌC
+| **Hạng** | **Tên nhóm** | **Số lần** |
+|:--------:|:------------:|:----------:|
+| 1        | Nhóm 9       | 13         |
+| 2        | Nhóm 11      | 9          |
+| 3        | Nhóm 10      | 7          |
+| 4        | Nhóm 16      | 6          |
+| 5        | Nhóm 5       | 5          |
+| 6        | Nhóm 14      | 5          |
+| 7        | Nhóm 1       | 2          |
+| 8        | Nhóm 12      | 2          |
+| 9        | Nhóm 17      | 2          |
+| 10       | Nhóm 7       | 1          |
+| 11       | Nhóm 2       | 0          |
+| 12       | Nhóm 3       | 0          |
+| 13       | Nhóm 6       | 0          |
+| 14       | Nhóm 8       | 0          |
+| 15       | Nhóm 13      | 0          |
+| 16       | Nhóm 15      | 0          |
+| 17       | Nhóm 18      | 0          |
+
+### 2. THAM GIA KAHOOT.IT
+- File thống kê Kahoot: [Report_11_06_2021.xlsx](Kahoot/Report_11_06_2021.xlsx)
+
+| **Hạng** | **Tên nhóm** | **Thành viên tham gia** | **Điểm cao nhất** |
+|:--------:|:------------:|:---------------------:|:-----------------:|
+| 1        | Nhóm 10      | 4                     | 5843              |
+| 2        | Nhóm 9       | 2                     | 5285              |
+| 3        | Nhóm 11      | 4                     | 5249              |
+| 4        | Nhóm 12      | 2                     | 5103              |
+| 5        | Nhóm 1       | 3                     | 4859              |
+| 6        | Nhóm 16      | 4                     | 4421              |
+| 7        | Nhóm 6       | 1                     | 4304              |
+| 8        | Nhóm 2       | 2                     | 4222              |
+| 9        | Nhóm 13      | 3                     | 3737              |
+| 10       | Nhóm 7       | 2                     | 3453              |
+| 11       | Nhóm 3       | 1                     | 3445              |
+| 12       | Nhóm 15      | 2                     | 3372              |
+| 13       | Nhóm 14      | 2                     | 2999              |
+| 14       | Nhóm 5       | 2                     | 2518              |
+| 15       | Nhóm 8       | 2                     | 1275              |
+
